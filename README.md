@@ -1,5 +1,7 @@
 # TriggerZoo
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5907916.svg)](https://doi.org/10.5281/zenodo.5907916)
+
 In this repository, we host TriggerZoo, a dataset of Android apps from the Google Play automatically infected with trigger-based behavior using [AndroBomb](https://github.com/JordanSamhi/AndroBomb).
 
 ## Dataset access
