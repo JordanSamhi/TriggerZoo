@@ -17,6 +17,8 @@ This work is intended for research purposes, therefore individuals interested to
 
 ![Number of infected apps by guarded code types](https://github.com/JordanSamhi/TriggerZoo/blob/master/plots/guarded_code_types.png)
 
+![Number of infected apps by Google Play categories](https://github.com/JordanSamhi/TriggerZoo/blob/master/plots/categories.png)
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
