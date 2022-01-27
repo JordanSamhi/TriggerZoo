@@ -11,6 +11,12 @@ The apps are only responsibly shared to authenticated and identified researchers
 
 This work is intended for research purposes, therefore individuals interested to manipulate this dataset should request an access to [Androzoo](https://androzoo.uni.lu) in which the apps are available.
 
+## Plots
+
+![Number of infected apps by trigger types](https://github.com/JordanSamhi/TriggerZoo/blob/master/plots/trigger_types.png)
+
+![Number of infected apps by guarded code types](https://github.com/JordanSamhi/TriggerZoo/blob/master/plots/guarded_code_types.png)
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
